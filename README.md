@@ -11,4 +11,6 @@ Tổng hợp các môn học trong chuyên ngành Mạng máy tính &amp; truy�
 
 [CT182 - Ngôn ngữ mô hình hóa](https://github.com/BuiTranNgocLy/CT182_UML_CTU)
 
+[CT178 - Nguyên lí hệ điều hành](https://github.com/BuiTranNgocLy/CT178_Operating-System_CTU)
+
 
