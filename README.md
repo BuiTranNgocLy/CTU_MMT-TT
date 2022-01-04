@@ -7,6 +7,8 @@ Tổng hợp các môn học trong chuyên ngành Mạng máy tính &amp; truy�
 
 [CT188 - Nhập môn Lập trình Web](https://github.com/BuiTranNgocLy/CT188_Web_CTU)
 
-CT190 - Nhập môn Trí tuệ nhân tạo[](https://github.com/BuiTranNgocLy/CT190_Nhap-mon-TTNT_CTU)
+[CT190 - Nhập môn Trí tuệ nhân tạo](https://github.com/BuiTranNgocLy/CT190_Nhap-mon-TTNT_CTU)
+
+[CT182 - Ngôn ngữ mô hình hóa](https://github.com/BuiTranNgocLy/CT182_UML_CTU)
 
 
