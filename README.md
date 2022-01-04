@@ -15,4 +15,6 @@ Tổng hợp các môn học trong chuyên ngành Mạng máy tính &amp; truy�
 
 [CT176 - Lập trình hướng đối tượng](https://github.com/BuiTranNgocLy/CT176_LTHDT_CTU)
 
+[CT173 - Kiến trúc máy tính](https://github.com/BuiTranNgocLy/CT173_KTMT_Assembly_CTU)
+
 
