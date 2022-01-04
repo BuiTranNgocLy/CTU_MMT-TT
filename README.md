@@ -17,4 +17,6 @@ Tổng hợp các môn học trong chuyên ngành Mạng máy tính &amp; truy�
 
 [CT173 - Kiến trúc máy tính](https://github.com/BuiTranNgocLy/CT173_KTMT_Assembly_CTU)
 
+[CT112 - Mạng máy tính](https://github.com/BuiTranNgocLy/CT112_MMT_CTU)
+
 
