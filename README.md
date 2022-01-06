@@ -21,4 +21,6 @@ Tổng hợp các môn học trong chuyên ngành Mạng máy tính &amp; truy�
 
 [CT179 - Quản trị hệ thống](https://github.com/BuiTranNgocLy/CT179_QTHT_CTU)
 
+[CT225 - Lập trình Python](https://github.com/BuiTranNgocLy/CT225_Python_CTU)
+
 
