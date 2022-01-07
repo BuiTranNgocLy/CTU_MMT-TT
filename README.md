@@ -25,4 +25,6 @@ Tổng hợp các môn học trong chuyên ngành Mạng máy tính &amp; truy�
 
 [CT296 - Phân tích & thiết kế hệ thống](https://github.com/BuiTranNgocLy/CT296_PT-TKHT_CTU)
 
+[CT127 - Lí thuyết thông ](https://github.com/BuiTranNgocLy/CT127_LTTT_CTU)
+
 
