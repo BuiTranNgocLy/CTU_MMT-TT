@@ -27,4 +27,6 @@ Tổng hợp các môn học trong chuyên ngành Mạng máy tính &amp; truy�
 
 [CT127 - Lí thuyết thông tin](https://github.com/BuiTranNgocLy/CT127_LTTT_CTU)
 
+[CT428 - Lập trình Web](https://github.com/BuiTranNgocLy/CT428_LT-Web)
+
 
