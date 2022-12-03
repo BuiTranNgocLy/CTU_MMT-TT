@@ -33,6 +33,8 @@ Tổng hợp các môn học trong chuyên ngành Mạng máy tính &amp; truy�
 
 [CT212 - Quản trị mạng](https://github.com/BuiTranNgocLy/CT212--Network-Administration)
 
+[CT226 - Niên luận cơ sở ngành mạng máy tính](https://github.com/BuiTranNgocLy/CT226_NienLuanCoSoNganh)
+
 [CT274 - Lập trình Thiết bị di động](https://github.com/BuiTranNgocLy/CT274-LT-Mobile)
 
 [CT335 - Thiết kế cài đặt mạng](https://github.com/BuiTranNgocLy/CT335_TKC-M)
