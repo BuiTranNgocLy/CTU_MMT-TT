@@ -35,4 +35,6 @@ Tổng hợp các môn học trong chuyên ngành Mạng máy tính &amp; truy�
 
 [CT274 - Lập trình Thiết bị di động](https://github.com/BuiTranNgocLy/CT274-LT-Mobile)
 
+[CT335 - Thiết kế cài đặt mạng](https://github.com/BuiTranNgocLy/CT335_TKC-M)
+
 
